@@ -14,10 +14,12 @@
 ![](https://img.shields.io/badge/Unity-121011?style=for-the-badge&logo=unity&logoColor=white&color=000000)
 
 ## Estadisticas 📊
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Enriranjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriranjan&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=n0nuser.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Enriranjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=814284,818184,84c381,3edb84&title_color=fff&text_color=fff"/> 
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriranjan&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=n0nuser.github.io&hide=Makefile&bg_color=347f81,6e7f81,cc7f81&title_color=fff&text_color=fff"/>
 
 ## Contacto 📱
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/enrique-hern%C3%A1ndez-hern%C3%A1ndez-a2b769201/)
+<a href="https://www.linkedin.com/in/enrique-hern%C3%A1ndez-hern%C3%A1ndez-a2b769201/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:enriranjan@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 <!--
