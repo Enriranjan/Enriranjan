@@ -13,7 +13,11 @@
 ![](https://img.shields.io/badge/Java-121011?style=for-the-badge&logo=Java&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Unity-121011?style=for-the-badge&logo=unity&logoColor=white&color=000000)
 
-## Contacto 
+## Estadisticas 📊
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Enriranjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriranjan&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=n0nuser.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
+
+## Contacto 📱
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/enrique-hern%C3%A1ndez-hern%C3%A1ndez-a2b769201/)
 
 
 <!--
