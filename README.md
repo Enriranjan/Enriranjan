@@ -2,9 +2,9 @@
 
 
 ## Sobre mi 👀
-- *Estudiante de Ingenieria Informatica en la [USAL](https://usal.es/).* 💻 
+- *Graduado en Ingenieria Informatica en la [USAL](https://usal.es/).* 💻 
 
-- *Interesado en el desarrollo de videojuegos y aplicaciones software* 🎮 
+- *Estudiante del master de Desarrollo y Programacion de Videojuegos en la [UOC](www.uoc.edu).* 🎮 
 
 ## Lenguajes y herramientas de Programación 👨‍💻
 ![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
